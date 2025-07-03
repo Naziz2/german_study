@@ -57,7 +57,7 @@ This section will guide you through setting up and running the project.
 
 3. **Run the application:** ⬇️ *(This will depend on your project setup)*
    ```bash
-   npm start
+   npm run dev
    ```
 
 

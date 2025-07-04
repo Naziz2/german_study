@@ -1,6 +1,7 @@
-import { QuizQuestion } from '../types';
+import { QuizQuestion } from './types';
 
 export const quizQuestions: QuizQuestion[] = [
+  // Basic Level Questions (A1) - 50 questions
   {
     id: '1',
     question: 'What is the German word for "house"?',
@@ -450,5 +451,484 @@ export const quizQuestions: QuizQuestion[] = [
     optionsArabic: ['جين', 'فارن', 'فليجن', 'لاوفن'],
     correctAnswer: 1,
     explanation: 'Fahren means "to drive" in German.'
+  },
+
+  // Intermediate Level Questions (A2-B1) - 50 questions
+  {
+    id: '51',
+    question: 'Which case is used after the preposition "mit"?',
+    questionArabic: 'أي حالة تُستخدم بعد حرف الجر "mit"؟',
+    options: ['Nominativ', 'Akkusativ', 'Dativ', 'Genitiv'],
+    optionsArabic: ['الفاعل', 'المفعول المباشر', 'المفعول غير المباشر', 'الإضافة'],
+    correctAnswer: 2,
+    explanation: 'The preposition "mit" always takes the dative case.'
+  },
+  {
+    id: '52',
+    question: 'How do you form the perfect tense of "gehen"?',
+    questionArabic: 'كيف تكوّن زمن الماضي التام من "gehen"؟',
+    options: ['ich habe gegangen', 'ich bin gegangen', 'ich war gegangen', 'ich hatte gegangen'],
+    optionsArabic: ['إش هابه جيجانجن', 'إش بين جيجانجن', 'إش فار جيجانجن', 'إش هاته جيجانجن'],
+    correctAnswer: 1,
+    explanation: 'Verbs of movement like "gehen" use "sein" as auxiliary verb in perfect tense.'
+  },
+  {
+    id: '53',
+    question: 'What is the comparative form of "gut"?',
+    questionArabic: 'ما هي صيغة التفضيل من "gut"؟',
+    options: ['guter', 'besser', 'am besten', 'mehr gut'],
+    optionsArabic: ['جوتر', 'بيسر', 'آم بيستن', 'مير جوت'],
+    correctAnswer: 1,
+    explanation: 'The comparative of "gut" is "besser" (irregular form).'
+  },
+  {
+    id: '54',
+    question: 'Which separable verb means "to get up"?',
+    questionArabic: 'أي فعل منفصل يعني "يستيقظ"؟',
+    options: ['ausgehen', 'aufstehen', 'ankommen', 'einsteigen'],
+    optionsArabic: ['آوسجين', 'آوفشتين', 'آنكومن', 'آينشتايجن'],
+    correctAnswer: 1,
+    explanation: 'Aufstehen means "to get up" or "to stand up".'
+  },
+  {
+    id: '55',
+    question: 'How do you say "I would like to have"?',
+    questionArabic: 'كيف تقول "أود أن أحصل على"؟',
+    options: ['Ich will haben', 'Ich möchte haben', 'Ich hätte gern', 'Ich kann haben'],
+    optionsArabic: ['إش فيل هابن', 'إش موشته هابن', 'إش هيته جيرن', 'إش كان هابن'],
+    correctAnswer: 2,
+    explanation: '"Ich hätte gern" is the polite subjunctive form for "I would like to have".'
+  },
+  {
+    id: '56',
+    question: 'Which reflexive pronoun goes with "er"?',
+    questionArabic: 'أي ضمير انعكاسي يذهب مع "er"؟',
+    options: ['mich', 'dich', 'sich', 'uns'],
+    optionsArabic: ['ميش', 'ديش', 'زيش', 'أونس'],
+    correctAnswer: 2,
+    explanation: 'The reflexive pronoun for "er" is "sich".'
+  },
+  {
+    id: '57',
+    question: 'What does "Ich freue mich auf" mean?',
+    questionArabic: 'ماذا تعني "Ich freue mich auf"؟',
+    options: ['I am angry about', 'I am looking forward to', 'I am worried about', 'I am tired of'],
+    optionsArabic: ['أنا غاضب من', 'أتطلع إلى', 'أنا قلق بشأن', 'أنا متعب من'],
+    correctAnswer: 1,
+    explanation: '"Sich freuen auf" means "to look forward to".'
+  },
+  {
+    id: '58',
+    question: 'Which conjunction requires the verb at the end?',
+    questionArabic: 'أي حرف عطف يتطلب الفعل في النهاية؟',
+    options: ['und', 'aber', 'weil', 'oder'],
+    optionsArabic: ['أوند', 'آبر', 'فايل', 'أودر'],
+    correctAnswer: 2,
+    explanation: 'Subordinating conjunctions like "weil" send the verb to the end of the clause.'
+  },
+  {
+    id: '59',
+    question: 'How do you say "since three years"?',
+    questionArabic: 'كيف تقول "منذ ثلاث سنوات"؟',
+    options: ['vor drei Jahren', 'seit drei Jahren', 'in drei Jahren', 'nach drei Jahren'],
+    optionsArabic: ['فور دراي يارن', 'زايت دراي يارن', 'إن دراي يارن', 'ناخ دراي يارن'],
+    correctAnswer: 1,
+    explanation: '"Seit" is used for duration from a point in the past until now.'
+  },
+  {
+    id: '60',
+    question: 'What is the past tense of "können"?',
+    questionArabic: 'ما هو الماضي من "können"؟',
+    options: ['konnte', 'gekonnt', 'kann', 'könnte'],
+    optionsArabic: ['كونته', 'جيكونت', 'كان', 'كونته'],
+    correctAnswer: 0,
+    explanation: 'The simple past (Präteritum) of "können" is "konnte".'
+  },
+  {
+    id: '61',
+    question: 'Which preposition is used with "denken"?',
+    questionArabic: 'أي حرف جر يُستخدم مع "denken"؟',
+    options: ['über', 'an', 'für', 'von'],
+    optionsArabic: ['أوبر', 'آن', 'فور', 'فون'],
+    correctAnswer: 1,
+    explanation: '"Denken an" means "to think of/about someone or something".'
+  },
+  {
+    id: '62',
+    question: 'How do you form the future tense?',
+    questionArabic: 'كيف تكوّن زمن المستقبل؟',
+    options: ['haben + Partizip II', 'sein + Partizip II', 'werden + Infinitiv', 'würde + Infinitiv'],
+    optionsArabic: ['هابن + اسم المفعول', 'زاين + اسم المفعول', 'فيردن + المصدر', 'فورده + المصدر'],
+    correctAnswer: 2,
+    explanation: 'Future tense is formed with "werden" + infinitive.'
+  },
+  {
+    id: '63',
+    question: 'What does "Es tut mir leid" mean?',
+    questionArabic: 'ماذا تعني "Es tut mir leid"؟',
+    options: ['I am happy', 'I am sorry', 'I am angry', 'I am confused'],
+    optionsArabic: ['أنا سعيد', 'أنا آسف', 'أنا غاضب', 'أنا محتار'],
+    correctAnswer: 1,
+    explanation: '"Es tut mir leid" means "I am sorry".'
+  },
+  {
+    id: '64',
+    question: 'Which modal verb expresses obligation?',
+    questionArabic: 'أي فعل مساعد يعبر عن الالتزام؟',
+    options: ['können', 'wollen', 'müssen', 'dürfen'],
+    optionsArabic: ['كونن', 'فولن', 'موسن', 'دورفن'],
+    correctAnswer: 2,
+    explanation: '"Müssen" expresses necessity or obligation.'
+  },
+  {
+    id: '65',
+    question: 'How do you say "I am interested in"?',
+    questionArabic: 'كيف تقول "أنا مهتم بـ"؟',
+    options: ['Ich interessiere mich für', 'Ich bin interessiert an', 'Ich habe Interesse in', 'Ich finde interessant'],
+    optionsArabic: ['إش إنترسيره ميش فور', 'إش بين إنترسيرت آن', 'إش هابه إنترسه إن', 'إش فيندي إنترسانت'],
+    correctAnswer: 0,
+    explanation: '"Sich interessieren für" means "to be interested in".'
+  },
+  {
+    id: '66',
+    question: 'What is the genitive form of "der Mann"?',
+    questionArabic: 'ما هي صيغة الإضافة من "der Mann"؟',
+    options: ['dem Mann', 'den Mann', 'des Mannes', 'der Mann'],
+    optionsArabic: ['ديم مان', 'دين مان', 'ديس مانيس', 'دير مان'],
+    correctAnswer: 2,
+    explanation: 'The genitive of "der Mann" is "des Mannes".'
+  },
+  {
+    id: '67',
+    question: 'Which verb means "to remember"?',
+    questionArabic: 'أي فعل يعني "يتذكر"؟',
+    options: ['vergessen', 'sich erinnern', 'denken', 'wissen'],
+    optionsArabic: ['فيرجيسن', 'زيش إرينرن', 'دينكن', 'فيسن'],
+    correctAnswer: 1,
+    explanation: '"Sich erinnern" means "to remember".'
+  },
+  {
+    id: '68',
+    question: 'How do you express "in order to"?',
+    questionArabic: 'كيف تعبر عن "من أجل"؟',
+    options: ['für', 'um...zu', 'damit', 'wegen'],
+    optionsArabic: ['فور', 'أوم...تسو', 'داميت', 'فيجن'],
+    correctAnswer: 1,
+    explanation: '"Um...zu" is used to express purpose (in order to).'
+  },
+  {
+    id: '69',
+    question: 'What does "Ich bin es gewohnt" mean?',
+    questionArabic: 'ماذا تعني "Ich bin es gewohnt"؟',
+    options: ['I am used to it', 'I am tired of it', 'I am good at it', 'I am afraid of it'],
+    optionsArabic: ['أنا معتاد على ذلك', 'أنا متعب من ذلك', 'أنا جيد في ذلك', 'أنا خائف من ذلك'],
+    correctAnswer: 0,
+    explanation: '"Gewohnt sein" means "to be used to" or "to be accustomed to".'
+  },
+  {
+    id: '70',
+    question: 'Which particle is used for emphasis?',
+    questionArabic: 'أي جسيم يُستخدم للتأكيد؟',
+    options: ['mal', 'doch', 'ja', 'eben'],
+    optionsArabic: ['مال', 'دوخ', 'يا', 'إيبن'],
+    correctAnswer: 1,
+    explanation: '"Doch" is often used for emphasis or contradiction.'
+  },
+  {
+    id: '71',
+    question: 'How do you say "neither...nor"?',
+    questionArabic: 'كيف تقول "لا...ولا"؟',
+    options: ['nicht...und nicht', 'weder...noch', 'kein...und kein', 'nie...und nie'],
+    optionsArabic: ['نيشت...أوند نيشت', 'فيدر...نوخ', 'كاين...أوند كاين', 'ني...أوند ني'],
+    correctAnswer: 1,
+    explanation: '"Weder...noch" means "neither...nor".'
+  },
+  {
+    id: '72',
+    question: 'What is the passive form of "Man baut das Haus"?',
+    questionArabic: 'ما هي الصيغة المبنية للمجهول من "Man baut das Haus"؟',
+    options: ['Das Haus baut man', 'Das Haus wird gebaut', 'Das Haus ist gebaut', 'Das Haus hat gebaut'],
+    optionsArabic: ['داس هاوس باوت مان', 'داس هاوس فيرد جيباوت', 'داس هاوس إست جيباوت', 'داس هاوس هات جيباوت'],
+    correctAnswer: 1,
+    explanation: 'The passive voice is formed with "werden" + past participle.'
+  },
+  {
+    id: '73',
+    question: 'Which verb requires the dative case?',
+    questionArabic: 'أي فعل يتطلب حالة المفعول غير المباشر؟',
+    options: ['sehen', 'helfen', 'kaufen', 'lesen'],
+    optionsArabic: ['زين', 'هيلفن', 'كاوفن', 'ليزن'],
+    correctAnswer: 1,
+    explanation: '"Helfen" always takes the dative case.'
+  },
+  {
+    id: '74',
+    question: 'How do you say "the more...the more"?',
+    questionArabic: 'كيف تقول "كلما...كلما"؟',
+    options: ['mehr...mehr', 'je...desto', 'immer...immer', 'so...so'],
+    optionsArabic: ['مير...مير', 'يه...ديستو', 'إمر...إمر', 'زو...زو'],
+    correctAnswer: 1,
+    explanation: '"Je...desto" is used for comparative constructions.'
+  },
+  {
+    id: '75',
+    question: 'What does "Ich habe vor" mean?',
+    questionArabic: 'ماذا تعني "Ich habe vor"؟',
+    options: ['I have in front', 'I intend to', 'I prefer', 'I prevent'],
+    optionsArabic: ['لدي أمام', 'أعتزم', 'أفضل', 'أمنع'],
+    correctAnswer: 1,
+    explanation: '"Vorhaben" means "to intend" or "to plan".'
+  },
+  {
+    id: '76',
+    question: 'Which relative pronoun is used for "das Mädchen"?',
+    questionArabic: 'أي ضمير موصول يُستخدم لـ "das Mädchen"؟',
+    options: ['der', 'die', 'das', 'dem'],
+    optionsArabic: ['دير', 'دي', 'داس', 'ديم'],
+    correctAnswer: 2,
+    explanation: 'The relative pronoun agrees with the gender of the noun: "das Mädchen" → "das".'
+  },
+  {
+    id: '77',
+    question: 'How do you express "instead of"?',
+    questionArabic: 'كيف تعبر عن "بدلاً من"؟',
+    options: ['anstatt', 'außer', 'ohne', 'trotz'],
+    optionsArabic: ['آنشتات', 'آوسر', 'أونه', 'تروتس'],
+    correctAnswer: 0,
+    explanation: '"Anstatt" or "(an)statt" means "instead of".'
+  },
+  {
+    id: '78',
+    question: 'What is the subjunctive II form of "haben"?',
+    questionArabic: 'ما هي صيغة الشرطية الثانية من "haben"؟',
+    options: ['habe', 'hatte', 'hätte', 'gehabt'],
+    optionsArabic: ['هابه', 'هاته', 'هيته', 'جيهابت'],
+    correctAnswer: 2,
+    explanation: 'The Konjunktiv II of "haben" is "hätte".'
+  },
+  {
+    id: '79',
+    question: 'Which preposition is used with "sich ärgern"?',
+    questionArabic: 'أي حرف جر يُستخدم مع "sich ärgern"؟',
+    options: ['auf', 'über', 'an', 'für'],
+    optionsArabic: ['آوف', 'أوبر', 'آن', 'فور'],
+    correctAnswer: 1,
+    explanation: '"Sich ärgern über" means "to be annoyed about".'
+  },
+  {
+    id: '80',
+    question: 'How do you say "as soon as"?',
+    questionArabic: 'كيف تقول "بمجرد أن"؟',
+    options: ['so bald', 'sobald', 'so schnell', 'sofort'],
+    optionsArabic: ['زو بالد', 'زوبالد', 'زو شنيل', 'زوفورت'],
+    correctAnswer: 1,
+    explanation: '"Sobald" means "as soon as".'
+  },
+  {
+    id: '81',
+    question: 'What does "Es kommt darauf an" mean?',
+    questionArabic: 'ماذا تعني "Es kommt darauf an"؟',
+    options: ['It comes from there', 'It depends', 'It arrives there', 'It comes back'],
+    optionsArabic: ['يأتي من هناك', 'يعتمد على', 'يصل هناك', 'يعود'],
+    correctAnswer: 1,
+    explanation: '"Es kommt darauf an" means "it depends".'
+  },
+  {
+    id: '82',
+    question: 'Which case follows "während"?',
+    questionArabic: 'أي حالة تتبع "während"؟',
+    options: ['Nominativ', 'Akkusativ', 'Dativ', 'Genitiv'],
+    optionsArabic: ['الفاعل', 'المفعول المباشر', 'المفعول غير المباشر', 'الإضافة'],
+    correctAnswer: 3,
+    explanation: '"Während" (during) takes the genitive case.'
+  },
+  {
+    id: '83',
+    question: 'How do you say "to get used to"?',
+    questionArabic: 'كيف تقول "يعتاد على"؟',
+    options: ['sich gewöhnen an', 'sich erinnern an', 'sich freuen auf', 'sich ärgern über'],
+    optionsArabic: ['زيش جيفونن آن', 'زيش إرينرن آن', 'زيش فرويين آوف', 'زيش إيرجرن أوبر'],
+    correctAnswer: 0,
+    explanation: '"Sich gewöhnen an" means "to get used to".'
+  },
+  {
+    id: '84',
+    question: 'What is the meaning of "zwar...aber"?',
+    questionArabic: 'ما معنى "zwar...aber"؟',
+    options: ['either...or', 'neither...nor', 'not only...but also', 'indeed...but'],
+    optionsArabic: ['إما...أو', 'لا...ولا', 'ليس فقط...بل أيضاً', 'حقاً...لكن'],
+    correctAnswer: 3,
+    explanation: '"Zwar...aber" means "indeed...but" or "it is true that...but".'
+  },
+  {
+    id: '85',
+    question: 'Which verb means "to succeed"?',
+    questionArabic: 'أي فعل يعني "ينجح"؟',
+    options: ['versuchen', 'gelingen', 'schaffen', 'erreichen'],
+    optionsArabic: ['فيرزوخن', 'جيلينجن', 'شافن', 'إرايخن'],
+    correctAnswer: 1,
+    explanation: '"Gelingen" means "to succeed" (impersonal verb).'
+  },
+  {
+    id: '86',
+    question: 'How do you express "in spite of"?',
+    questionArabic: 'كيف تعبر عن "رغم"؟',
+    options: ['wegen', 'trotz', 'außer', 'seit'],
+    optionsArabic: ['فيجن', 'تروتس', 'آوسر', 'زايت'],
+    correctAnswer: 1,
+    explanation: '"Trotz" means "in spite of" or "despite".'
+  },
+  {
+    id: '87',
+    question: 'What does "Mir ist kalt" mean?',
+    questionArabic: 'ماذا تعني "Mir ist kalt"؟',
+    options: ['I am cold', 'I have a cold', 'It is cold for me', 'I feel cold'],
+    optionsArabic: ['أنا بارد', 'لدي نزلة برد', 'الجو بارد بالنسبة لي', 'أشعر بالبرد'],
+    correctAnswer: 3,
+    explanation: '"Mir ist kalt" means "I feel cold" (dative construction).'
+  },
+  {
+    id: '88',
+    question: 'Which conjunction introduces an indirect question?',
+    questionArabic: 'أي حرف عطف يقدم سؤالاً غير مباشر؟',
+    options: ['dass', 'ob', 'weil', 'wenn'],
+    optionsArabic: ['داس', 'أوب', 'فايل', 'فين'],
+    correctAnswer: 1,
+    explanation: '"Ob" introduces indirect yes/no questions.'
+  },
+  {
+    id: '89',
+    question: 'How do you say "to take place"?',
+    questionArabic: 'كيف تقول "يحدث/يقام"؟',
+    options: ['stattfinden', 'teilnehmen', 'vorkommen', 'geschehen'],
+    optionsArabic: ['شتاتفيندن', 'تايلنيمن', 'فوركومن', 'جيشين'],
+    correctAnswer: 0,
+    explanation: '"Stattfinden" means "to take place".'
+  },
+  {
+    id: '90',
+    question: 'What is the meaning of "sowohl...als auch"?',
+    questionArabic: 'ما معنى "sowohl...als auch"؟',
+    options: ['either...or', 'both...and', 'not only...but also', 'neither...nor'],
+    optionsArabic: ['إما...أو', 'كلاً من...و', 'ليس فقط...بل أيضاً', 'لا...ولا'],
+    correctAnswer: 1,
+    explanation: '"Sowohl...als auch" means "both...and".'
+  },
+  {
+    id: '91',
+    question: 'Which verb means "to notice"?',
+    questionArabic: 'أي فعل يعني "يلاحظ"؟',
+    options: ['bemerken', 'merken', 'erkennen', 'verstehen'],
+    optionsArabic: ['بيميركن', 'ميركن', 'إركينن', 'فيرشتين'],
+    correctAnswer: 0,
+    explanation: '"Bemerken" means "to notice".'
+  },
+  {
+    id: '92',
+    question: 'How do you express "according to"?',
+    questionArabic: 'كيف تعبر عن "وفقاً لـ"؟',
+    options: ['nach', 'laut', 'gemäß', 'All of the above'],
+    optionsArabic: ['ناخ', 'لاوت', 'جيميس', 'كل ما سبق'],
+    correctAnswer: 3,
+    explanation: 'All three prepositions can mean "according to".'
+  },
+  {
+    id: '93',
+    question: 'What does "Es geht um" mean?',
+    questionArabic: 'ماذا تعني "Es geht um"؟',
+    options: ['It goes around', 'It is about', 'It goes up', 'It goes away'],
+    optionsArabic: ['يدور حول', 'يتعلق بـ', 'يصعد', 'يذهب بعيداً'],
+    correctAnswer: 1,
+    explanation: '"Es geht um" means "it is about" or "it concerns".'
+  },
+  {
+    id: '94',
+    question: 'Which modal particle expresses certainty?',
+    questionArabic: 'أي جسيم وسطي يعبر عن اليقين؟',
+    options: ['wohl', 'sicher', 'bestimmt', 'ja'],
+    optionsArabic: ['فول', 'زيشر', 'بيشتيمت', 'يا'],
+    correctAnswer: 3,
+    explanation: 'The particle "ja" can express certainty or emphasis.'
+  },
+  {
+    id: '95',
+    question: 'How do you say "to look forward to"?',
+    questionArabic: 'كيف تقول "يتطلع إلى"؟',
+    options: ['sich freuen auf', 'sich freuen über', 'sich freuen für', 'sich freuen an'],
+    optionsArabic: ['زيش فرويين آوف', 'زيش فرويين أوبر', 'زيش فرويين فور', 'زيش فرويين آن'],
+    correctAnswer: 0,
+    explanation: '"Sich freuen auf" means "to look forward to".'
+  },
+  {
+    id: '96',
+    question: 'What is the past participle of "bringen"?',
+    questionArabic: 'ما هو اسم المفعول من "bringen"؟',
+    options: ['gebringt', 'gebracht', 'brachte', 'gebrungen'],
+    optionsArabic: ['جيبرينجت', 'جيبراخت', 'براخته', 'جيبرونجن'],
+    correctAnswer: 1,
+    explanation: 'The past participle of "bringen" is "gebracht".'
+  },
+  {
+    id: '97',
+    question: 'Which preposition is used with "sich entscheiden"?',
+    questionArabic: 'أي حرف جر يُستخدم مع "sich entscheiden"؟',
+    options: ['auf', 'für', 'über', 'an'],
+    optionsArabic: ['آوف', 'فور', 'أوبر', 'آن'],
+    correctAnswer: 1,
+    explanation: '"Sich entscheiden für" means "to decide on/for".'
+  },
+  {
+    id: '98',
+    question: 'How do you say "it doesn\'t matter"?',
+    questionArabic: 'كيف تقول "لا يهم"؟',
+    options: ['Es ist egal', 'Es macht nichts', 'Es spielt keine Rolle', 'All of the above'],
+    optionsArabic: ['إس إست إيجال', 'إس ماخت نيشتس', 'إس شبيلت كاينه رولي', 'كل ما سبق'],
+    correctAnswer: 3,
+    explanation: 'All three expressions mean "it doesn\'t matter".'
+  },
+  {
+    id: '99',
+    question: 'What does "Ich bin dabei" mean?',
+    questionArabic: 'ماذا تعني "Ich bin dabei"؟',
+    options: ['I am there', 'I am with it', 'I am in', 'I agree/I\'m in'],
+    optionsArabic: ['أنا هناك', 'أنا معه', 'أنا بالداخل', 'أوافق/أنا موافق'],
+    correctAnswer: 3,
+    explanation: '"Ich bin dabei" means "I\'m in" or "count me in".'
+  },
+  {
+    id: '100',
+    question: 'Which verb means "to realize"?',
+    questionArabic: 'أي فعل يعني "يدرك"؟',
+    options: ['realisieren', 'merken', 'bemerken', 'All of the above'],
+    optionsArabic: ['ريالزيرن', 'ميركن', 'بيميركن', 'كل ما سبق'],
+    correctAnswer: 3,
+    explanation: 'All three verbs can mean "to realize" in different contexts.'
   }
 ];
+
+// Function to get questions by difficulty
+export const getQuestionsByLevel = (level: 'A1' | 'A2' | 'B1' | 'B2'): QuizQuestion[] => {
+  if (level === 'A1') {
+    return quizQuestions.slice(0, 30);
+  } else if (level === 'A2') {
+    return quizQuestions.slice(20, 60);
+  } else if (level === 'B1') {
+    return quizQuestions.slice(40, 80);
+  } else {
+    return quizQuestions.slice(60, 100);
+  }
+};
+
+// Function to get random questions
+export const getRandomQuestions = (count: number): QuizQuestion[] => {
+  const shuffled = [...quizQuestions].sort(() => 0.5 - Math.random());
+  return shuffled.slice(0, count);
+};
+
+// Function to get questions by topic (based on question content)
+export const getQuestionsByTopic = (topic: string): QuizQuestion[] => {
+  return quizQuestions.filter(q => 
+    q.question.toLowerCase().includes(topic.toLowerCase()) ||
+    q.explanation?.toLowerCase().includes(topic.toLowerCase())
+  );
+};

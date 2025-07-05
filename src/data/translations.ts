@@ -12,6 +12,7 @@ export const translations: Translations = {
     grammar: 'Grammatik',
     practice: 'Übung',
     dictionary: 'Wörterbuch',
+    verbConjugation: 'Verbkonjugation',
     
     // Common phrases
     welcomeTitle: 'Lernen Sie Deutsch mit DeutschLernen',
@@ -57,6 +58,9 @@ export const translations: Translations = {
     examples: 'Beispiele',
     practiceLesson: 'Lektion üben',
     
+    // Verb Conjugation
+    verbConjugationDescription: 'Lernen Sie deutsche Verbkonjugationen in verschiedenen Zeiten und Modi',
+    
     // Footer
     footerDescription: 'DeutschLernen ist eine umfassende Plattform zum Erlernen der deutschen Sprache, speziell für arabische Muttersprachler entwickelt.',
     quickLinks: 'Schnelle Links',
@@ -77,6 +81,7 @@ export const translations: Translations = {
     grammar: 'القواعد',
     practice: 'التمرين',
     dictionary: 'القاموس',
+    verbConjugation: 'تصريف الأفعال',
     
     // Common phrases
     welcomeTitle: 'تعلم الألمانية مع دويتش لِيرن',
@@ -121,6 +126,9 @@ export const translations: Translations = {
     // Grammar
     examples: 'أمثلة',
     practiceLesson: 'تمرن على الدرس',
+    
+    // Verb Conjugation
+    verbConjugationDescription: 'تعلم تصريف الأفعال الألمانية في أزمنة وصيغ مختلفة',
     
     // Footer
     footerDescription: 'دويتش لِيرن هي منصة شاملة لتعلم اللغة الألمانية، مصممة خصيصاً للناطقين بالعربية.',

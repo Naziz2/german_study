@@ -7,6 +7,7 @@ import VocabularyPage from './pages/VocabularyPage';
 import GrammarPage from './pages/GrammarPage';
 import PracticePage from './pages/PracticePage';
 import DictionaryPage from './pages/DictionaryPage';
+import VerbConjugationPage from './pages/VerbConjugationPage';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
             <Route path="grammar" element={<GrammarPage />} />
             <Route path="practice" element={<PracticePage />} />
             <Route path="dictionary" element={<DictionaryPage />} />
+            <Route path="verb-conjugation" element={<VerbConjugationPage />} />
           </Route>
         </Routes>
       </Router>

@@ -40,6 +40,9 @@ const Header: React.FC = () => {
             <Link to="/grammar" className="text-gray-600 hover:text-primary-600 px-3 py-2 rounded-md text-sm font-medium transition duration-150 ease-in-out">
               {t('grammar')}
             </Link>
+            <Link to="/verb-conjugation" className="text-gray-600 hover:text-primary-600 px-3 py-2 rounded-md text-sm font-medium transition duration-150 ease-in-out">
+              {t('verbConjugation')}
+            </Link>
             <Link to="/practice" className="text-gray-600 hover:text-primary-600 px-3 py-2 rounded-md text-sm font-medium transition duration-150 ease-in-out">
               {t('practice')}
             </Link>
@@ -79,6 +82,9 @@ const Header: React.FC = () => {
           </Link>
           <Link to="/grammar" className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-primary-600 hover:bg-gray-50">
             {t('grammar')}
+          </Link>
+          <Link to="/verb-conjugation" className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-primary-600 hover:bg-gray-50">
+            {t('verbConjugation')}
           </Link>
           <Link to="/practice" className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-primary-600 hover:bg-gray-50">
             {t('practice')}

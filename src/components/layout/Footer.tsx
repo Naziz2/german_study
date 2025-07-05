@@ -52,6 +52,11 @@ const Footer: React.FC = () => {
                 </Link>
               </li>
               <li>
+                <Link to="/verb-conjugation" className="text-gray-300 hover:text-white transition-colors">
+                  {t('verbConjugation')}
+                </Link>
+              </li>
+              <li>
                 <Link to="/practice" className="text-gray-300 hover:text-white transition-colors">
                   {t('practice')}
                 </Link>

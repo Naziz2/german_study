@@ -1,0 +1,272 @@
+[
+  {
+    "id": "quiz-001",
+    "question": "What is the German word for \"house\"?",
+    "questionArabic": "ما هي الكلمة الألمانية لـ \"منزل\"؟",
+    "options": ["Haus", "Auto", "Baum", "Tisch"],
+    "optionsArabic": ["هاوس", "آوتو", "باوم", "تيش"],
+    "correctAnswer": 0,
+    "explanation": "Haus means house in German. It is a neuter noun (das Haus)."
+  },
+  {
+    "id": "quiz-002",
+    "question": "Which article goes with \"Mann\" (man)?",
+    "questionArabic": "أي أداة تعريف تذهب مع \"Mann\" (رجل)؟",
+    "options": ["die", "der", "das", "den"],
+    "optionsArabic": ["دي", "دير", "داس", "دين"],
+    "correctAnswer": 1,
+    "explanation": "Mann is a masculine noun, so it takes the article \"der\"."
+  },
+  {
+    "id": "quiz-003",
+    "question": "How do you say \"I am learning German\"?",
+    "questionArabic": "كيف تقول \"أنا أتعلم الألمانية\"؟",
+    "options": ["Ich lerne Deutsch", "Du lernst Deutsch", "Er lernt Deutsch", "Wir lernen Deutsch"],
+    "optionsArabic": ["إش ليرنه دويتش", "دو ليرنست دويتش", "إر ليرنت دويتش", "فير ليرنن دويتش"],
+    "correctAnswer": 0,
+    "explanation": "The first person singular form of \"lernen\" is \"ich lerne\"."
+  },
+  {
+    "id": "quiz-004",
+    "question": "What color is \"blau\"?",
+    "questionArabic": "ما هو لون \"blau\"؟",
+    "options": ["Red", "Blue", "Green", "Yellow"],
+    "optionsArabic": ["أحمر", "أزرق", "أخضر", "أصفر"],
+    "correctAnswer": 1,
+    "explanation": "Blau means blue in German."
+  },
+  {
+    "id": "quiz-005",
+    "question": "Which number is \"fünf\"?",
+    "questionArabic": "أي رقم هو \"fünf\"؟",
+    "options": ["3", "4", "5", "6"],
+    "optionsArabic": ["٣", "٤", "٥", "٦"],
+    "correctAnswer": 2,
+    "explanation": "Fünf is the German word for five."
+  },
+  {
+    "id": "quiz-006",
+    "question": "What does \"Guten Morgen\" mean?",
+    "questionArabic": "ماذا تعني \"Guten Morgen\"؟",
+    "options": ["Good evening", "Good morning", "Good night", "Good afternoon"],
+    "optionsArabic": ["مساء الخير", "صباح الخير", "تصبح على خير", "بعد الظهر الطيب"],
+    "correctAnswer": 1,
+    "explanation": "Guten Morgen is the German greeting for \"Good morning\"."
+  },
+  {
+    "id": "quiz-007",
+    "question": "Which modal verb means \"can\" or \"to be able to\"?",
+    "questionArabic": "أي فعل مساعد يعني \"يستطيع\" أو \"قادر على\"؟",
+    "options": ["müssen", "wollen", "können", "sollen"],
+    "optionsArabic": ["موسن", "فولن", "كونن", "زولن"],
+    "correctAnswer": 2,
+    "explanation": "Können means \"can\" or \"to be able to\" in German."
+  },
+  {
+    "id": "quiz-008",
+    "question": "What is the plural of \"Kind\" (child)?",
+    "questionArabic": "ما هو جمع \"Kind\" (طفل)؟",
+    "options": ["Kinds", "Kinder", "Kindes", "Kinden"],
+    "optionsArabic": ["كيندس", "كيندر", "كيندس", "كيندن"],
+    "correctAnswer": 1,
+    "explanation": "The plural of Kind is Kinder."
+  },
+  {
+    "id": "quiz-009",
+    "question": "How do you say \"thank you\" in German?",
+    "questionArabic": "كيف تقول \"شكرًا\" بالألمانية؟",
+    "options": ["Bitte", "Danke", "Hallo", "Tschüss"],
+    "optionsArabic": ["بيته", "دانكه", "هالو", "تشوس"],
+    "correctAnswer": 1,
+    "explanation": "Danke means \"thank you\" in German."
+  },
+  {
+    "id": "quiz-010",
+    "question": "Which preposition is used with \"gehen\" to mean \"go to\"?",
+    "questionArabic": "أي حرف جر يُستخدم مع \"gehen\" ليعني \"يذهب إلى\"؟",
+    "options": ["mit", "zu", "von", "bei"],
+    "optionsArabic": ["ميت", "تسو", "فون", "باي"],
+    "correctAnswer": 1,
+    "explanation": "The preposition \"zu\" is used with \"gehen\" to indicate direction (go to)."
+  },
+  {
+    "id": "quiz-011",
+    "question": "What is the past participle of \"sprechen\" (to speak)?",
+    "questionArabic": "ما هو اسم المفعول من \"sprechen\" (يتحدث)؟",
+    "options": ["gesprochen", "gespricht", "gesprachen", "sprechte"],
+    "optionsArabic": ["جيشبروخن", "جيشبريشت", "جيشبراخن", "شبريشته"],
+    "correctAnswer": 0,
+    "explanation": "The past participle of \"sprechen\" is \"gesprochen\"."
+  },
+  {
+    "id": "quiz-012",
+    "question": "Which case does the preposition \"mit\" require?",
+    "questionArabic": "أي حالة يتطلبها حرف الجر \"mit\"؟",
+    "options": ["Nominativ", "Akkusativ", "Dativ", "Genitiv"],
+    "optionsArabic": ["الفاعل", "المفعول المباشر", "المفعول غير المباشر", "الإضافة"],
+    "correctAnswer": 2,
+    "explanation": "The preposition \"mit\" always requires the dative case."
+  },
+  {
+    "id": "quiz-013",
+    "question": "How do you form the comparative of \"gut\" (good)?",
+    "questionArabic": "كيف تكوّن صيغة التفضيل من \"gut\" (جيد)؟",
+    "options": ["guter", "besser", "am besten", "mehr gut"],
+    "optionsArabic": ["جوتر", "بيسر", "آم بيستن", "مير جوت"],
+    "correctAnswer": 1,
+    "explanation": "The comparative of \"gut\" is \"besser\" (better)."
+  },
+  {
+    "id": "quiz-014",
+    "question": "What does \"Ich hätte gerne...\" mean?",
+    "questionArabic": "ماذا تعني \"Ich hätte gerne...\"؟",
+    "options": ["I have...", "I would like...", "I had...", "I will have..."],
+    "optionsArabic": ["لدي...", "أود...", "كان لدي...", "سيكون لدي..."],
+    "correctAnswer": 1,
+    "explanation": "\"Ich hätte gerne...\" is a polite way to say \"I would like...\""
+  },
+  {
+    "id": "quiz-015",
+    "question": "Which auxiliary verb is used with \"fahren\" in perfect tense?",
+    "questionArabic": "أي فعل مساعد يُستخدم مع \"fahren\" في زمن الماضي التام؟",
+    "options": ["haben", "sein", "werden", "können"],
+    "optionsArabic": ["هابن", "زاين", "فيردن", "كونن"],
+    "correctAnswer": 1,
+    "explanation": "\"Fahren\" uses \"sein\" as auxiliary verb: \"Ich bin gefahren\"."
+  },
+  {
+    "id": "quiz-016",
+    "question": "What is the correct word order in: \"Yesterday I went to the cinema\"?",
+    "questionArabic": "ما هو ترتيب الكلمات الصحيح في: \"أمس ذهبت إلى السينما\"؟",
+    "options": ["Gestern ich ging ins Kino", "Gestern ging ich ins Kino", "Ich ging gestern ins Kino", "Ins Kino ging ich gestern"],
+    "optionsArabic": ["جيسترن إش جينج إنس كينو", "جيسترن جينج إش إنس كينو", "إش جينج جيسترن إنس كينو", "إنس كينو جينج إش جيسترن"],
+    "correctAnswer": 1,
+    "explanation": "When starting with a time expression, the verb comes second: \"Gestern ging ich ins Kino\"."
+  },
+  {
+    "id": "quiz-017",
+    "question": "Which reflexive pronoun goes with \"sich freuen\" for \"wir\"?",
+    "questionArabic": "أي ضمير انعكاسي يذهب مع \"sich freuen\" للضمير \"wir\"؟",
+    "options": ["sich", "uns", "euch", "ihnen"],
+    "optionsArabic": ["زيش", "أونس", "أويش", "إينن"],
+    "correctAnswer": 1,
+    "explanation": "With \"wir\" the reflexive pronoun is \"uns\": \"Wir freuen uns\"."
+  },
+  {
+    "id": "quiz-018",
+    "question": "What does \"obwohl\" mean?",
+    "questionArabic": "ماذا تعني \"obwohl\"؟",
+    "options": ["because", "although", "when", "if"],
+    "optionsArabic": ["لأن", "رغم أن", "عندما", "إذا"],
+    "correctAnswer": 1,
+    "explanation": "\"Obwohl\" means \"although\" and sends the verb to the end of the clause."
+  },
+  {
+    "id": "quiz-019",
+    "question": "How do you say \"I have been living here for 5 years\"?",
+    "questionArabic": "كيف تقول \"أعيش هنا منذ 5 سنوات\"؟",
+    "options": ["Ich wohne hier für 5 Jahre", "Ich wohne hier seit 5 Jahren", "Ich habe hier 5 Jahre gewohnt", "Ich bin hier 5 Jahre"],
+    "optionsArabic": ["إش فونه هير فور 5 يارِه", "إش فونه هير زايت 5 يارن", "إش هابه هير 5 يارِه جيفونت", "إش بين هير 5 يارِه"],
+    "correctAnswer": 1,
+    "explanation": "For ongoing actions, use present tense with \"seit\": \"Ich wohne hier seit 5 Jahren\"."
+  },
+  {
+    "id": "quiz-020",
+    "question": "What is the genitive form of \"der Mann\"?",
+    "questionArabic": "ما هي صيغة الإضافة من \"der Mann\"؟",
+    "options": ["dem Mann", "den Mann", "des Mannes", "der Mann"],
+    "optionsArabic": ["ديم مان", "دين مان", "ديس مانيس", "دير مان"],
+    "correctAnswer": 2,
+    "explanation": "The genitive of \"der Mann\" is \"des Mannes\"."
+  },
+  {
+    "id": "quiz-021",
+    "question": "Which subjunctive II form is correct for \"haben\" with \"ich\"?",
+    "questionArabic": "أي صيغة شرطية ثانية صحيحة لـ \"haben\" مع \"ich\"؟",
+    "options": ["ich habe", "ich hätte", "ich hatte", "ich werde haben"],
+    "optionsArabic": ["إش هابه", "إش هيته", "إش هاته", "إش فيردِه هابن"],
+    "correctAnswer": 1,
+    "explanation": "The subjunctive II form of \"haben\" with \"ich\" is \"ich hätte\"."
+  },
+  {
+    "id": "quiz-022",
+    "question": "What does \"Je mehr..., desto besser\" mean?",
+    "questionArabic": "ماذا تعني \"Je mehr..., desto besser\"؟",
+    "options": ["The more..., the better", "More or less better", "Better than more", "Much more better"],
+    "optionsArabic": ["كلما أكثر... كلما أفضل", "أكثر أو أقل أفضل", "أفضل من أكثر", "أفضل بكثير"],
+    "correctAnswer": 0,
+    "explanation": "\"Je mehr..., desto besser\" means \"The more..., the better\"."
+  },
+  {
+    "id": "quiz-023",
+    "question": "Which particle is used in reported speech with subjunctive I?",
+    "questionArabic": "أي أداة تُستخدم في الكلام المنقول مع الشرطية الأولى؟",
+    "options": ["dass", "ob", "wenn", "als"],
+    "optionsArabic": ["داس", "أوب", "فين", "آلس"],
+    "correctAnswer": 0,
+    "explanation": "\"Dass\" is commonly used in reported speech: \"Er sagt, dass er krank sei\"."
+  },
+  {
+    "id": "quiz-024",
+    "question": "What is the passive form of \"Man baut das Haus\"?",
+    "questionArabic": "ما هي الصيغة المبنية للمجهول من \"Man baut das Haus\"؟",
+    "options": ["Das Haus baut man", "Das Haus wird gebaut", "Das Haus ist gebaut", "Man wird das Haus bauen"],
+    "optionsArabic": ["داس هاوس باوت مان", "داس هاوس فيرد جيباوت", "داس هاوس إست جيباوت", "مان فيرد داس هاوس باون"],
+    "correctAnswer": 1,
+    "explanation": "The passive form is \"Das Haus wird gebaut\" (The house is being built)."
+  },
+  {
+    "id": "quiz-025",
+    "question": "Which conjunction requires the subjunctive mood?",
+    "questionArabic": "أي أداة ربط تتطلب صيغة الشرطية؟",
+    "options": ["weil", "damit", "dass", "als ob"],
+    "optionsArabic": ["فايل", "داميت", "داس", "آلس أوب"],
+    "correctAnswer": 3,
+    "explanation": "\"Als ob\" (as if) requires the subjunctive mood: \"Er tut, als ob er krank wäre\"."
+  },
+  {
+    "id": "quiz-026",
+    "question": "What does \"anstatt zu + infinitive\" express?",
+    "questionArabic": "ماذا تعبر \"anstatt zu + infinitive\"؟",
+    "options": ["Purpose", "Alternative action", "Time", "Cause"],
+    "optionsArabic": ["الغرض", "فعل بديل", "الوقت", "السبب"],
+    "correctAnswer": 1,
+    "explanation": "\"Anstatt zu\" expresses an alternative action: \"instead of doing\"."
+  },
+  {
+    "id": "quiz-027",
+    "question": "Which relative pronoun is correct: \"Der Mann, ___ ich gesehen habe\"?",
+    "questionArabic": "أي ضمير موصول صحيح: \"Der Mann, ___ ich gesehen habe\"؟",
+    "options": ["der", "den", "dem", "dessen"],
+    "optionsArabic": ["دير", "دين", "ديم", "ديسن"],
+    "correctAnswer": 1,
+    "explanation": "\"Den\" is correct because \"Mann\" is the direct object (accusative) in the relative clause."
+  },
+  {
+    "id": "quiz-028",
+    "question": "What is the meaning of the prefix \"zer-\" in verbs?",
+    "questionArabic": "ما معنى البادئة \"zer-\" في الأفعال؟",
+    "options": ["Together", "Apart/destruction", "Again", "Before"],
+    "optionsArabic": ["معًا", "منفصل/تدمير", "مرة أخرى", "قبل"],
+    "correctAnswer": 1,
+    "explanation": "The prefix \"zer-\" indicates destruction or breaking apart, like \"zerbrechen\" (to break)."
+  },
+  {
+    "id": "quiz-029",
+    "question": "Which form is used for polite requests with \"können\"?",
+    "questionArabic": "أي صيغة تُستخدم للطلبات المهذبة مع \"können\"؟",
+    "options": ["Können Sie...?", "Könnten Sie...?", "Konnten Sie...?", "Gekonnt Sie...?"],
+    "optionsArabic": ["كونن زي...؟", "كونتن زي...؟", "كونتن زي...؟", "جيكونت زي...؟"],
+    "correctAnswer": 1,
+    "explanation": "\"Könnten Sie...?\" (subjunctive II) is more polite than \"Können Sie...?\""
+  },
+  {
+    "id": "quiz-030",
+    "question": "What does \"Es sei denn, dass...\" mean?",
+    "questionArabic": "ماذا تعني \"Es sei denn, dass...\"؟",
+    "options": ["It is said that...", "Unless...", "It seems that...", "Provided that..."],
+    "optionsArabic": ["يُقال أن...", "إلا إذا...", "يبدو أن...", "بشرط أن..."],
+    "correctAnswer": 1,
+    "explanation": "\"Es sei denn, dass...\" means \"unless\" and introduces an exception."
+  }
+]

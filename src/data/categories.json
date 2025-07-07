@@ -1,0 +1,72 @@
+[
+  {
+    "id": "greetings",
+    "name": "Greetings",
+    "nameArabic": "التحيات",
+    "description": "Common greetings and polite expressions",
+    "descriptionArabic": "التحيات الشائعة والتعبيرات المهذبة"
+  },
+  {
+    "id": "food-drink",
+    "name": "Food & Drink",
+    "nameArabic": "الطعام والشراب",
+    "description": "Food items, beverages, and dining vocabulary",
+    "descriptionArabic": "أصناف الطعام والمشروبات ومفردات تناول الطعام"
+  },
+  {
+    "id": "home-living",
+    "name": "Home & Living",
+    "nameArabic": "المنزل والمعيشة",
+    "description": "House, furniture, and household items",
+    "descriptionArabic": "المنزل والأثاث والأدوات المنزلية"
+  },
+  {
+    "id": "family",
+    "name": "Family",
+    "nameArabic": "العائلة",
+    "description": "Family members and relationships",
+    "descriptionArabic": "أفراد العائلة والعلاقات الأسرية"
+  },
+  {
+    "id": "transportation",
+    "name": "Transportation",
+    "nameArabic": "المواصلات",
+    "description": "Vehicles, travel, and transportation vocabulary",
+    "descriptionArabic": "المركبات والسفر ومفردات المواصلات"
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "nameArabic": "التعليم",
+    "description": "School, learning, and educational terms",
+    "descriptionArabic": "المدرسة والتعلم والمصطلحات التعليمية"
+  },
+  {
+    "id": "work",
+    "name": "Work",
+    "nameArabic": "العمل",
+    "description": "Jobs, professions, and workplace vocabulary",
+    "descriptionArabic": "الوظائف والمهن ومفردات مكان العمل"
+  },
+  {
+    "id": "time",
+    "name": "Time",
+    "nameArabic": "الوقت",
+    "description": "Time expressions, days, months, and seasons",
+    "descriptionArabic": "تعبيرات الوقت والأيام والشهور والفصول"
+  },
+  {
+    "id": "colors",
+    "name": "Colors",
+    "nameArabic": "الألوان",
+    "description": "Basic colors and color descriptions",
+    "descriptionArabic": "الألوان الأساسية ووصف الألوان"
+  },
+  {
+    "id": "numbers",
+    "name": "Numbers",
+    "nameArabic": "الأرقام",
+    "description": "Cardinal and ordinal numbers",
+    "descriptionArabic": "الأرقام الأساسية والترتيبية"
+  }
+]

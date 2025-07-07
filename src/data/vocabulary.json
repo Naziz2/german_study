@@ -1,0 +1,902 @@
+[
+  {
+    "id": "word-001",
+    "german": "Hallo",
+    "arabic": "مرحباً",
+    "pronunciation": "HAH-loh",
+    "example": "Hallo, wie geht es dir?",
+    "category": "Greetings",
+    "level": "A1"
+  },
+  {
+    "id": "word-002",
+    "german": "Guten Morgen",
+    "arabic": "صباح الخير",
+    "pronunciation": "GOO-ten MOR-gen",
+    "example": "Guten Morgen, Herr Schmidt!",
+    "category": "Greetings",
+    "level": "A1"
+  },
+  {
+    "id": "word-003",
+    "german": "Guten Tag",
+    "arabic": "نهارك سعيد",
+    "pronunciation": "GOO-ten TAHK",
+    "example": "Guten Tag, wie kann ich Ihnen helfen?",
+    "category": "Greetings",
+    "level": "A1"
+  },
+  {
+    "id": "word-004",
+    "german": "Guten Abend",
+    "arabic": "مساء الخير",
+    "pronunciation": "GOO-ten AH-bent",
+    "example": "Guten Abend, schön Sie zu sehen!",
+    "category": "Greetings",
+    "level": "A1"
+  },
+  {
+    "id": "word-005",
+    "german": "Gute Nacht",
+    "arabic": "تصبح على خير",
+    "pronunciation": "GOO-te NAKHT",
+    "example": "Gute Nacht und süße Träume!",
+    "category": "Greetings",
+    "level": "A1"
+  },
+  {
+    "id": "word-006",
+    "german": "Auf Wiedersehen",
+    "arabic": "إلى اللقاء",
+    "pronunciation": "owf VEE-der-zayn",
+    "example": "Auf Wiedersehen, bis morgen!",
+    "category": "Greetings",
+    "level": "A1"
+  },
+  {
+    "id": "word-007",
+    "german": "Tschüss",
+    "arabic": "وداعاً",
+    "pronunciation": "CHOOS",
+    "example": "Tschüss, wir sehen uns später!",
+    "category": "Greetings",
+    "level": "A1"
+  },
+  {
+    "id": "word-008",
+    "german": "Danke",
+    "arabic": "شكراً",
+    "pronunciation": "DAHN-kuh",
+    "example": "Danke für deine Hilfe!",
+    "category": "Greetings",
+    "level": "A1"
+  },
+  {
+    "id": "word-009",
+    "german": "Bitte",
+    "arabic": "من فضلك / عفواً",
+    "pronunciation": "BIT-tuh",
+    "example": "Bitte schön, gern geschehen!",
+    "category": "Greetings",
+    "level": "A1"
+  },
+  {
+    "id": "word-010",
+    "german": "Entschuldigung",
+    "arabic": "عذراً",
+    "pronunciation": "ent-SHOOL-di-goong",
+    "example": "Entschuldigung, können Sie mir helfen?",
+    "category": "Greetings",
+    "level": "A1"
+  },
+  {
+    "id": "word-011",
+    "german": "Wasser",
+    "arabic": "ماء",
+    "pronunciation": "VAH-ser",
+    "example": "Ich möchte ein Glas Wasser, bitte.",
+    "category": "Food & Drink",
+    "level": "A1"
+  },
+  {
+    "id": "word-012",
+    "german": "Brot",
+    "arabic": "خبز",
+    "pronunciation": "BROHT",
+    "example": "Das Brot ist sehr frisch.",
+    "category": "Food & Drink",
+    "level": "A1"
+  },
+  {
+    "id": "word-013",
+    "german": "Milch",
+    "arabic": "حليب",
+    "pronunciation": "MILKH",
+    "example": "Die Milch ist kalt.",
+    "category": "Food & Drink",
+    "level": "A1"
+  },
+  {
+    "id": "word-014",
+    "german": "Kaffee",
+    "arabic": "قهوة",
+    "pronunciation": "kah-FEH",
+    "example": "Ich trinke gerne Kaffee am Morgen.",
+    "category": "Food & Drink",
+    "level": "A1"
+  },
+  {
+    "id": "word-015",
+    "german": "Tee",
+    "arabic": "شاي",
+    "pronunciation": "TEH",
+    "example": "Möchten Sie Tee oder Kaffee?",
+    "category": "Food & Drink",
+    "level": "A1"
+  },
+  {
+    "id": "word-016",
+    "german": "Apfel",
+    "arabic": "تفاحة",
+    "pronunciation": "AHP-fel",
+    "example": "Der Apfel ist rot und süß.",
+    "category": "Food & Drink",
+    "level": "A1"
+  },
+  {
+    "id": "word-017",
+    "german": "Banane",
+    "arabic": "موزة",
+    "pronunciation": "bah-NAH-nuh",
+    "example": "Die Banane ist gelb.",
+    "category": "Food & Drink",
+    "level": "A1"
+  },
+  {
+    "id": "word-018",
+    "german": "Orange",
+    "arabic": "برتقالة",
+    "pronunciation": "oh-RAHN-zhuh",
+    "example": "Die Orange schmeckt sauer.",
+    "category": "Food & Drink",
+    "level": "A1"
+  },
+  {
+    "id": "word-019",
+    "german": "Fleisch",
+    "arabic": "لحم",
+    "pronunciation": "FLYSH",
+    "example": "Das Fleisch ist gut gebraten.",
+    "category": "Food & Drink",
+    "level": "A1"
+  },
+  {
+    "id": "word-020",
+    "german": "Fisch",
+    "arabic": "سمك",
+    "pronunciation": "FISH",
+    "example": "Der Fisch ist sehr frisch.",
+    "category": "Food & Drink",
+    "level": "A1"
+  },
+  {
+    "id": "word-021",
+    "german": "Haus",
+    "arabic": "منزل",
+    "pronunciation": "HOWS",
+    "example": "Das Haus ist sehr groß.",
+    "category": "Home & Living",
+    "level": "A1"
+  },
+  {
+    "id": "word-022",
+    "german": "Wohnung",
+    "arabic": "شقة",
+    "pronunciation": "VOH-noong",
+    "example": "Die Wohnung hat drei Zimmer.",
+    "category": "Home & Living",
+    "level": "A1"
+  },
+  {
+    "id": "word-023",
+    "german": "Zimmer",
+    "arabic": "غرفة",
+    "pronunciation": "TSIM-mer",
+    "example": "Mein Zimmer ist klein aber gemütlich.",
+    "category": "Home & Living",
+    "level": "A1"
+  },
+  {
+    "id": "word-024",
+    "german": "Küche",
+    "arabic": "مطبخ",
+    "pronunciation": "KUE-khuh",
+    "example": "In der Küche koche ich gerne.",
+    "category": "Home & Living",
+    "level": "A1"
+  },
+  {
+    "id": "word-025",
+    "german": "Badezimmer",
+    "arabic": "حمام",
+    "pronunciation": "BAH-duh-tsim-mer",
+    "example": "Das Badezimmer ist sehr sauber.",
+    "category": "Home & Living",
+    "level": "A1"
+  },
+  {
+    "id": "word-026",
+    "german": "Schlafzimmer",
+    "arabic": "غرفة النوم",
+    "pronunciation": "SHLAHF-tsim-mer",
+    "example": "Im Schlafzimmer steht ein großes Bett.",
+    "category": "Home & Living",
+    "level": "A1"
+  },
+  {
+    "id": "word-027",
+    "german": "Wohnzimmer",
+    "arabic": "غرفة المعيشة",
+    "pronunciation": "VOHN-tsim-mer",
+    "example": "Im Wohnzimmer sehen wir fern.",
+    "category": "Home & Living",
+    "level": "A1"
+  },
+  {
+    "id": "word-028",
+    "german": "Tür",
+    "arabic": "باب",
+    "pronunciation": "TUER",
+    "example": "Die Tür ist geschlossen.",
+    "category": "Home & Living",
+    "level": "A1"
+  },
+  {
+    "id": "word-029",
+    "german": "Fenster",
+    "arabic": "نافذة",
+    "pronunciation": "FEN-ster",
+    "example": "Das Fenster ist offen.",
+    "category": "Home & Living",
+    "level": "A1"
+  },
+  {
+    "id": "word-030",
+    "german": "Tisch",
+    "arabic": "طاولة",
+    "pronunciation": "TISH",
+    "example": "Der Tisch ist aus Holz.",
+    "category": "Home & Living",
+    "level": "A1"
+  },
+  {
+    "id": "word-031",
+    "german": "Familie",
+    "arabic": "عائلة",
+    "pronunciation": "fah-MEE-lee-uh",
+    "example": "Meine Familie ist sehr groß.",
+    "category": "Family",
+    "level": "A1"
+  },
+  {
+    "id": "word-032",
+    "german": "Vater",
+    "arabic": "أب",
+    "pronunciation": "FAH-ter",
+    "example": "Mein Vater arbeitet als Arzt.",
+    "category": "Family",
+    "level": "A1"
+  },
+  {
+    "id": "word-033",
+    "german": "Mutter",
+    "arabic": "أم",
+    "pronunciation": "MUT-ter",
+    "example": "Meine Mutter kocht sehr gut.",
+    "category": "Family",
+    "level": "A1"
+  },
+  {
+    "id": "word-034",
+    "german": "Bruder",
+    "arabic": "أخ",
+    "pronunciation": "BROO-der",
+    "example": "Mein Bruder ist älter als ich.",
+    "category": "Family",
+    "level": "A1"
+  },
+  {
+    "id": "word-035",
+    "german": "Schwester",
+    "arabic": "أخت",
+    "pronunciation": "SHVES-ter",
+    "example": "Meine Schwester studiert Medizin.",
+    "category": "Family",
+    "level": "A1"
+  },
+  {
+    "id": "word-036",
+    "german": "Großvater",
+    "arabic": "جد",
+    "pronunciation": "GROHS-fah-ter",
+    "example": "Mein Großvater erzählt gerne Geschichten.",
+    "category": "Family",
+    "level": "A1"
+  },
+  {
+    "id": "word-037",
+    "german": "Großmutter",
+    "arabic": "جدة",
+    "pronunciation": "GROHS-mut-ter",
+    "example": "Meine Großmutter backt leckere Kuchen.",
+    "category": "Family",
+    "level": "A1"
+  },
+  {
+    "id": "word-038",
+    "german": "Kind",
+    "arabic": "طفل",
+    "pronunciation": "KINT",
+    "example": "Das Kind spielt im Garten.",
+    "category": "Family",
+    "level": "A1"
+  },
+  {
+    "id": "word-039",
+    "german": "Sohn",
+    "arabic": "ابن",
+    "pronunciation": "ZOHN",
+    "example": "Mein Sohn geht zur Schule.",
+    "category": "Family",
+    "level": "A1"
+  },
+  {
+    "id": "word-040",
+    "german": "Tochter",
+    "arabic": "ابنة",
+    "pronunciation": "TOKH-ter",
+    "example": "Meine Tochter liebt Musik.",
+    "category": "Family",
+    "level": "A1"
+  },
+  {
+    "id": "word-041",
+    "german": "Auto",
+    "arabic": "سيارة",
+    "pronunciation": "OW-toh",
+    "example": "Das Auto ist blau.",
+    "category": "Transportation",
+    "level": "A1"
+  },
+  {
+    "id": "word-042",
+    "german": "Bus",
+    "arabic": "حافلة",
+    "pronunciation": "BOOS",
+    "example": "Der Bus kommt um 8 Uhr.",
+    "category": "Transportation",
+    "level": "A1"
+  },
+  {
+    "id": "word-043",
+    "german": "Zug",
+    "arabic": "قطار",
+    "pronunciation": "TSOOK",
+    "example": "Der Zug fährt nach Berlin.",
+    "category": "Transportation",
+    "level": "A1"
+  },
+  {
+    "id": "word-044",
+    "german": "Flugzeug",
+    "arabic": "طائرة",
+    "pronunciation": "FLOOK-tsoyk",
+    "example": "Das Flugzeug fliegt sehr hoch.",
+    "category": "Transportation",
+    "level": "A1"
+  },
+  {
+    "id": "word-045",
+    "german": "Fahrrad",
+    "arabic": "دراجة هوائية",
+    "pronunciation": "FAH-raht",
+    "example": "Ich fahre gerne Fahrrad.",
+    "category": "Transportation",
+    "level": "A1"
+  },
+  {
+    "id": "word-046",
+    "german": "Straße",
+    "arabic": "شارع",
+    "pronunciation": "SHTRAH-suh",
+    "example": "Die Straße ist sehr breit.",
+    "category": "Transportation",
+    "level": "A1"
+  },
+  {
+    "id": "word-047",
+    "german": "Bahnhof",
+    "arabic": "محطة القطار",
+    "pronunciation": "BAHN-hohf",
+    "example": "Der Bahnhof ist sehr groß.",
+    "category": "Transportation",
+    "level": "A1"
+  },
+  {
+    "id": "word-048",
+    "german": "Flughafen",
+    "arabic": "مطار",
+    "pronunciation": "FLOOK-hah-fen",
+    "example": "Der Flughafen ist weit von der Stadt.",
+    "category": "Transportation",
+    "level": "A1"
+  },
+  {
+    "id": "word-049",
+    "german": "Ticket",
+    "arabic": "تذكرة",
+    "pronunciation": "TI-ket",
+    "example": "Ich brauche ein Ticket nach München.",
+    "category": "Transportation",
+    "level": "A1"
+  },
+  {
+    "id": "word-050",
+    "german": "fahren",
+    "arabic": "يقود / يسافر",
+    "pronunciation": "FAH-ren",
+    "example": "Ich fahre mit dem Auto zur Arbeit.",
+    "category": "Transportation",
+    "level": "A1"
+  },
+  {
+    "id": "word-051",
+    "german": "Schule",
+    "arabic": "مدرسة",
+    "pronunciation": "SHOO-luh",
+    "example": "Die Schule beginnt um 8 Uhr.",
+    "category": "Education",
+    "level": "A1"
+  },
+  {
+    "id": "word-052",
+    "german": "Universität",
+    "arabic": "جامعة",
+    "pronunciation": "oo-nee-ver-zi-TAET",
+    "example": "Ich studiere an der Universität.",
+    "category": "Education",
+    "level": "A1"
+  },
+  {
+    "id": "word-053",
+    "german": "Lehrer",
+    "arabic": "معلم",
+    "pronunciation": "LEH-rer",
+    "example": "Der Lehrer erklärt die Grammatik.",
+    "category": "Education",
+    "level": "A1"
+  },
+  {
+    "id": "word-054",
+    "german": "Student",
+    "arabic": "طالب",
+    "pronunciation": "shtu-DENT",
+    "example": "Der Student lernt fleißig.",
+    "category": "Education",
+    "level": "A1"
+  },
+  {
+    "id": "word-055",
+    "german": "Buch",
+    "arabic": "كتاب",
+    "pronunciation": "BOOKH",
+    "example": "Das Buch ist sehr interessant.",
+    "category": "Education",
+    "level": "A1"
+  },
+  {
+    "id": "word-056",
+    "german": "Heft",
+    "arabic": "دفتر",
+    "pronunciation": "HEFT",
+    "example": "Ich schreibe in mein Heft.",
+    "category": "Education",
+    "level": "A1"
+  },
+  {
+    "id": "word-057",
+    "german": "Stift",
+    "arabic": "قلم",
+    "pronunciation": "SHTIFT",
+    "example": "Der Stift schreibt sehr gut.",
+    "category": "Education",
+    "level": "A1"
+  },
+  {
+    "id": "word-058",
+    "german": "Tafel",
+    "arabic": "سبورة",
+    "pronunciation": "TAH-fel",
+    "example": "Der Lehrer schreibt an die Tafel.",
+    "category": "Education",
+    "level": "A1"
+  },
+  {
+    "id": "word-059",
+    "german": "lernen",
+    "arabic": "يتعلم",
+    "pronunciation": "LER-nen",
+    "example": "Ich lerne Deutsch.",
+    "category": "Education",
+    "level": "A1"
+  },
+  {
+    "id": "word-060",
+    "german": "studieren",
+    "arabic": "يدرس",
+    "pronunciation": "shtu-DEE-ren",
+    "example": "Sie studiert Medizin.",
+    "category": "Education",
+    "level": "A1"
+  },
+  {
+    "id": "word-061",
+    "german": "Arbeit",
+    "arabic": "عمل",
+    "pronunciation": "AR-bite",
+    "example": "Die Arbeit macht mir Spaß.",
+    "category": "Work",
+    "level": "A1"
+  },
+  {
+    "id": "word-062",
+    "german": "Beruf",
+    "arabic": "مهنة",
+    "pronunciation": "buh-ROOF",
+    "example": "Was ist Ihr Beruf?",
+    "category": "Work",
+    "level": "A1"
+  },
+  {
+    "id": "word-063",
+    "german": "Büro",
+    "arabic": "مكتب",
+    "pronunciation": "bue-ROH",
+    "example": "Ich arbeite im Büro.",
+    "category": "Work",
+    "level": "A1"
+  },
+  {
+    "id": "word-064",
+    "german": "Chef",
+    "arabic": "رئيس",
+    "pronunciation": "SHEF",
+    "example": "Mein Chef ist sehr nett.",
+    "category": "Work",
+    "level": "A1"
+  },
+  {
+    "id": "word-065",
+    "german": "Kollege",
+    "arabic": "زميل",
+    "pronunciation": "kol-LEH-guh",
+    "example": "Mein Kollege hilft mir oft.",
+    "category": "Work",
+    "level": "A1"
+  },
+  {
+    "id": "word-066",
+    "german": "Geld",
+    "arabic": "مال",
+    "pronunciation": "GELT",
+    "example": "Ich brauche mehr Geld.",
+    "category": "Work",
+    "level": "A1"
+  },
+  {
+    "id": "word-067",
+    "german": "verdienen",
+    "arabic": "يكسب",
+    "pronunciation": "fer-DEE-nen",
+    "example": "Er verdient viel Geld.",
+    "category": "Work",
+    "level": "A1"
+  },
+  {
+    "id": "word-068",
+    "german": "arbeiten",
+    "arabic": "يعمل",
+    "pronunciation": "AR-bite-en",
+    "example": "Ich arbeite von 9 bis 17 Uhr.",
+    "category": "Work",
+    "level": "A1"
+  },
+  {
+    "id": "word-069",
+    "german": "Pause",
+    "arabic": "استراحة",
+    "pronunciation": "POW-zuh",
+    "example": "Ich mache eine kurze Pause.",
+    "category": "Work",
+    "level": "A1"
+  },
+  {
+    "id": "word-070",
+    "german": "Feierabend",
+    "arabic": "نهاية العمل",
+    "pronunciation": "FY-er-ah-bent",
+    "example": "Um 17 Uhr ist Feierabend.",
+    "category": "Work",
+    "level": "A1"
+  },
+  {
+    "id": "word-071",
+    "german": "Zeit",
+    "arabic": "وقت",
+    "pronunciation": "TSYTE",
+    "example": "Wie viel Uhr ist es?",
+    "category": "Time",
+    "level": "A1"
+  },
+  {
+    "id": "word-072",
+    "german": "Uhr",
+    "arabic": "ساعة",
+    "pronunciation": "OOR",
+    "example": "Es ist drei Uhr.",
+    "category": "Time",
+    "level": "A1"
+  },
+  {
+    "id": "word-073",
+    "german": "Minute",
+    "arabic": "دقيقة",
+    "pronunciation": "mi-NOO-tuh",
+    "example": "Warten Sie eine Minute!",
+    "category": "Time",
+    "level": "A1"
+  },
+  {
+    "id": "word-074",
+    "german": "Stunde",
+    "arabic": "ساعة زمنية",
+    "pronunciation": "SHTUN-duh",
+    "example": "Der Film dauert zwei Stunden.",
+    "category": "Time",
+    "level": "A1"
+  },
+  {
+    "id": "word-075",
+    "german": "Tag",
+    "arabic": "يوم",
+    "pronunciation": "TAHK",
+    "example": "Heute ist ein schöner Tag.",
+    "category": "Time",
+    "level": "A1"
+  },
+  {
+    "id": "word-076",
+    "german": "Woche",
+    "arabic": "أسبوع",
+    "pronunciation": "VO-khuh",
+    "example": "Nächste Woche fahre ich in Urlaub.",
+    "category": "Time",
+    "level": "A1"
+  },
+  {
+    "id": "word-077",
+    "german": "Monat",
+    "arabic": "شهر",
+    "pronunciation": "MOH-naht",
+    "example": "Januar ist der erste Monat.",
+    "category": "Time",
+    "level": "A1"
+  },
+  {
+    "id": "word-078",
+    "german": "Jahr",
+    "arabic": "سنة",
+    "pronunciation": "YAHR",
+    "example": "Dieses Jahr war sehr schön.",
+    "category": "Time",
+    "level": "A1"
+  },
+  {
+    "id": "word-079",
+    "german": "heute",
+    "arabic": "اليوم",
+    "pronunciation": "HOY-tuh",
+    "example": "Heute scheint die Sonne.",
+    "category": "Time",
+    "level": "A1"
+  },
+  {
+    "id": "word-080",
+    "german": "morgen",
+    "arabic": "غداً",
+    "pronunciation": "MOR-gen",
+    "example": "Morgen gehe ich einkaufen.",
+    "category": "Time",
+    "level": "A1"
+  },
+  {
+    "id": "word-081",
+    "german": "rot",
+    "arabic": "أحمر",
+    "pronunciation": "ROHT",
+    "example": "Das Auto ist rot.",
+    "category": "Colors",
+    "level": "A1"
+  },
+  {
+    "id": "word-082",
+    "german": "blau",
+    "arabic": "أزرق",
+    "pronunciation": "BLOW",
+    "example": "Der Himmel ist blau.",
+    "category": "Colors",
+    "level": "A1"
+  },
+  {
+    "id": "word-083",
+    "german": "grün",
+    "arabic": "أخضر",
+    "pronunciation": "GRUEN",
+    "example": "Das Gras ist grün.",
+    "category": "Colors",
+    "level": "A1"
+  },
+  {
+    "id": "word-084",
+    "german": "gelb",
+    "arabic": "أصفر",
+    "pronunciation": "GELB",
+    "example": "Die Banane ist gelb.",
+    "category": "Colors",
+    "level": "A1"
+  },
+  {
+    "id": "word-085",
+    "german": "schwarz",
+    "arabic": "أسود",
+    "pronunciation": "SHVARTS",
+    "example": "Die Katze ist schwarz.",
+    "category": "Colors",
+    "level": "A1"
+  },
+  {
+    "id": "word-086",
+    "german": "weiß",
+    "arabic": "أبيض",
+    "pronunciation": "VYSS",
+    "example": "Der Schnee ist weiß.",
+    "category": "Colors",
+    "level": "A1"
+  },
+  {
+    "id": "word-087",
+    "german": "braun",
+    "arabic": "بني",
+    "pronunciation": "BROWN",
+    "example": "Der Tisch ist braun.",
+    "category": "Colors",
+    "level": "A1"
+  },
+  {
+    "id": "word-088",
+    "german": "orange",
+    "arabic": "برتقالي",
+    "pronunciation": "oh-RAHN-zhuh",
+    "example": "Die Orange ist orange.",
+    "category": "Colors",
+    "level": "A1"
+  },
+  {
+    "id": "word-089",
+    "german": "rosa",
+    "arabic": "وردي",
+    "pronunciation": "ROH-zah",
+    "example": "Das Kleid ist rosa.",
+    "category": "Colors",
+    "level": "A1"
+  },
+  {
+    "id": "word-090",
+    "german": "lila",
+    "arabic": "بنفسجي",
+    "pronunciation": "LEE-lah",
+    "example": "Die Blume ist lila.",
+    "category": "Colors",
+    "level": "A1"
+  },
+  {
+    "id": "word-091",
+    "german": "eins",
+    "arabic": "واحد",
+    "pronunciation": "INES",
+    "example": "Ich habe eins Buch.",
+    "category": "Numbers",
+    "level": "A1"
+  },
+  {
+    "id": "word-092",
+    "german": "zwei",
+    "arabic": "اثنان",
+    "pronunciation": "TSVYE",
+    "example": "Ich habe zwei Hände.",
+    "category": "Numbers",
+    "level": "A1"
+  },
+  {
+    "id": "word-093",
+    "german": "drei",
+    "arabic": "ثلاثة",
+    "pronunciation": "DRYE",
+    "example": "Das Dreieck hat drei Seiten.",
+    "category": "Numbers",
+    "level": "A1"
+  },
+  {
+    "id": "word-094",
+    "german": "vier",
+    "arabic": "أربعة",
+    "pronunciation": "FEER",
+    "example": "Der Tisch hat vier Beine.",
+    "category": "Numbers",
+    "level": "A1"
+  },
+  {
+    "id": "word-095",
+    "german": "fünf",
+    "arabic": "خمسة",
+    "pronunciation": "FUENF",
+    "example": "Ich habe fünf Finger.",
+    "category": "Numbers",
+    "level": "A1"
+  },
+  {
+    "id": "word-096",
+    "german": "sechs",
+    "arabic": "ستة",
+    "pronunciation": "ZEKS",
+    "example": "Ein Würfel hat sechs Seiten.",
+    "category": "Numbers",
+    "level": "A1"
+  },
+  {
+    "id": "word-097",
+    "german": "sieben",
+    "arabic": "سبعة",
+    "pronunciation": "ZEE-ben",
+    "example": "Die Woche hat sieben Tage.",
+    "category": "Numbers",
+    "level": "A1"
+  },
+  {
+    "id": "word-098",
+    "german": "acht",
+    "arabic": "ثمانية",
+    "pronunciation": "AKHT",
+    "example": "Die Spinne hat acht Beine.",
+    "category": "Numbers",
+    "level": "A1"
+  },
+  {
+    "id": "word-099",
+    "german": "neun",
+    "arabic": "تسعة",
+    "pronunciation": "NOYN",
+    "example": "Neun plus eins ist zehn.",
+    "category": "Numbers",
+    "level": "A1"
+  },
+  {
+    "id": "word-100",
+    "german": "zehn",
+    "arabic": "عشرة",
+    "pronunciation": "TSEHN",
+    "example": "Ich habe zehn Finger.",
+    "category": "Numbers",
+    "level": "A1"
+  }
+]

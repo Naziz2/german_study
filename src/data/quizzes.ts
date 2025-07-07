@@ -1,3 +1,6 @@
-import { extendedQuizQuestions } from './extendedQuizzes';
+// This file is now deprecated - use the JSON data instead
+// Import from the new JSON structure
+import { quizQuestions } from './index';
 
-export const quizQuestions = extendedQuizQuestions;
+// Re-export for backward compatibility
+export { quizQuestions };

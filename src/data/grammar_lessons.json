@@ -1,0 +1,442 @@
+[
+  {
+    "id": "grammar-001",
+    "title": "Personal Pronouns",
+    "titleArabic": "الضمائر الشخصية",
+    "description": "Learn the personal pronouns in German: ich, du, er, sie, es, wir, ihr, sie, Sie.",
+    "descriptionArabic": "تعلم الضمائر الشخصية في الألمانية: ich, du, er, sie, es, wir, ihr, sie, Sie.",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "Ich komme aus Deutschland.",
+        "arabic": "أنا من ألمانيا."
+      },
+      {
+        "german": "Du sprichst sehr gut Deutsch.",
+        "arabic": "أنت تتحدث الألمانية جيدًا جدًا."
+      },
+      {
+        "german": "Er arbeitet in Berlin.",
+        "arabic": "هو يعمل في برلين."
+      }
+    ]
+  },
+  {
+    "id": "grammar-002",
+    "title": "Definite Articles",
+    "titleArabic": "أدوات التعريف",
+    "description": "Learn about the definite articles in German: der (masculine), die (feminine), das (neuter).",
+    "descriptionArabic": "تعلم عن أدوات التعريف في الألمانية: der (مذكر), die (مؤنث), das (محايد).",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "Der Mann liest ein Buch.",
+        "arabic": "الرجل يقرأ كتابًا."
+      },
+      {
+        "german": "Die Frau trinkt Wasser.",
+        "arabic": "المرأة تشرب الماء."
+      },
+      {
+        "german": "Das Kind spielt im Garten.",
+        "arabic": "الطفل يلعب في الحديقة."
+      }
+    ]
+  },
+  {
+    "id": "grammar-003",
+    "title": "Indefinite Articles",
+    "titleArabic": "أدوات التنكير",
+    "description": "Learn about the indefinite articles in German: ein (masculine/neuter), eine (feminine).",
+    "descriptionArabic": "تعلم عن أدوات التنكير في الألمانية: ein (مذكر/محايد), eine (مؤنث).",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "Ein Mann geht spazieren.",
+        "arabic": "رجل يتمشى."
+      },
+      {
+        "german": "Eine Frau kauft Brot.",
+        "arabic": "امرأة تشتري خبزًا."
+      },
+      {
+        "german": "Ein Kind spielt Ball.",
+        "arabic": "طفل يلعب الكرة."
+      }
+    ]
+  },
+  {
+    "id": "grammar-004",
+    "title": "Present Tense",
+    "titleArabic": "زمن المضارع",
+    "description": "Learn how to conjugate regular verbs in the present tense.",
+    "descriptionArabic": "تعلم كيفية تصريف الأفعال العادية في زمن المضارع.",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "Ich lerne Deutsch.",
+        "arabic": "أنا أتعلم الألمانية."
+      },
+      {
+        "german": "Du lernst Arabisch.",
+        "arabic": "أنت تتعلم العربية."
+      },
+      {
+        "german": "Wir lernen zusammen.",
+        "arabic": "نحن نتعلم معًا."
+      }
+    ]
+  },
+  {
+    "id": "grammar-005",
+    "title": "Modal Verbs",
+    "titleArabic": "الأفعال المساعدة",
+    "description": "Learn the most important modal verbs in German: können, müssen, wollen, etc.",
+    "descriptionArabic": "تعلم أهم الأفعال المساعدة في الألمانية: können, müssen, wollen, إلخ.",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "Ich kann Deutsch sprechen.",
+        "arabic": "أستطيع التحدث بالألمانية."
+      },
+      {
+        "german": "Du musst jetzt gehen.",
+        "arabic": "يجب أن تذهب الآن."
+      },
+      {
+        "german": "Wir wollen lernen.",
+        "arabic": "نريد أن نتعلم."
+      }
+    ]
+  },
+  {
+    "id": "grammar-006",
+    "title": "Accusative Case",
+    "titleArabic": "حالة المفعول المباشر",
+    "description": "Learn when and how to use the accusative case in German.",
+    "descriptionArabic": "تعلم متى وكيف تستخدم حالة المفعول المباشر في الألمانية.",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "Ich sehe den Mann.",
+        "arabic": "أرى الرجل."
+      },
+      {
+        "german": "Sie kauft eine Blume.",
+        "arabic": "تشتري زهرة."
+      },
+      {
+        "german": "Wir haben das Buch gelesen.",
+        "arabic": "قرأنا الكتاب."
+      }
+    ]
+  },
+  {
+    "id": "grammar-007",
+    "title": "Dative Case",
+    "titleArabic": "حالة المفعول غير المباشر",
+    "description": "Learn when and how to use the dative case in German.",
+    "descriptionArabic": "تعلم متى وكيف تستخدم حالة المفعول غير المباشر في الألمانية.",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Ich gebe dem Mann das Buch.",
+        "arabic": "أعطي الكتاب للرجل."
+      },
+      {
+        "german": "Das gehört meiner Schwester.",
+        "arabic": "هذا يخص أختي."
+      },
+      {
+        "german": "Mit dem Auto fahren.",
+        "arabic": "القيادة بالسيارة."
+      }
+    ]
+  },
+  {
+    "id": "grammar-008",
+    "title": "Prepositions",
+    "titleArabic": "حروف الجر",
+    "description": "Learn the most common German prepositions and their cases.",
+    "descriptionArabic": "تعلم أهم حروف الجر في الألمانية وحالاتها.",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Ich gehe in die Schule.",
+        "arabic": "أذهب إلى المدرسة."
+      },
+      {
+        "german": "Das Buch liegt auf dem Tisch.",
+        "arabic": "الكتاب على الطاولة."
+      },
+      {
+        "german": "Wir fahren nach Berlin.",
+        "arabic": "نحن ذاهبون إلى برلين."
+      }
+    ]
+  },
+  {
+    "id": "grammar-009",
+    "title": "Adjective Endings",
+    "titleArabic": "نهايات الصفات",
+    "description": "Learn how adjective endings change based on gender, case, and article.",
+    "descriptionArabic": "تعلم كيف تتغير نهايات الصفات بناءً على الجنس والحالة وأداة التعريف.",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Der große Mann",
+        "arabic": "الرجل الكبير"
+      },
+      {
+        "german": "Eine schöne Frau",
+        "arabic": "امرأة جميلة"
+      },
+      {
+        "german": "Das kleine Kind",
+        "arabic": "الطفل الصغير"
+      }
+    ]
+  },
+  {
+    "id": "grammar-010",
+    "title": "Past Tense (Perfekt)",
+    "titleArabic": "الماضي التام",
+    "description": "Learn how to form and use the perfect tense in German.",
+    "descriptionArabic": "تعلم كيفية تكوين واستخدام زمن الماضي التام في الألمانية.",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Ich habe gegessen.",
+        "arabic": "لقد أكلت."
+      },
+      {
+        "german": "Er ist gekommen.",
+        "arabic": "لقد جاء."
+      },
+      {
+        "german": "Wir haben gelernt.",
+        "arabic": "لقد تعلمنا."
+      }
+    ]
+  },
+  {
+    "id": "grammar-011",
+    "title": "Separable Verbs",
+    "titleArabic": "الأفعال المنفصلة",
+    "description": "Learn about separable verbs and how to use them correctly.",
+    "descriptionArabic": "تعلم عن الأفعال المنفصلة وكيفية استخدامها بشكل صحيح.",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Ich stehe um 7 Uhr auf.",
+        "arabic": "أستيقظ في الساعة السابعة."
+      },
+      {
+        "german": "Der Zug kommt um 9 Uhr an.",
+        "arabic": "يصل القطار في الساعة التاسعة."
+      },
+      {
+        "german": "Wir gehen heute aus.",
+        "arabic": "نخرج اليوم."
+      }
+    ]
+  },
+  {
+    "id": "grammar-012",
+    "title": "Reflexive Verbs",
+    "titleArabic": "الأفعال الانعكاسية",
+    "description": "Learn about reflexive verbs and reflexive pronouns.",
+    "descriptionArabic": "تعلم عن الأفعال الانعكاسية والضمائر الانعكاسية.",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Ich wasche mich.",
+        "arabic": "أغسل نفسي."
+      },
+      {
+        "german": "Sie freut sich über das Geschenk.",
+        "arabic": "تفرح بالهدية."
+      },
+      {
+        "german": "Wir treffen uns um 8 Uhr.",
+        "arabic": "نلتقي في الساعة الثامنة."
+      }
+    ]
+  },
+  {
+    "id": "grammar-013",
+    "title": "Conjunctions",
+    "titleArabic": "حروف العطف",
+    "description": "Learn how to connect sentences using German conjunctions.",
+    "descriptionArabic": "تعلم كيفية ربط الجمل باستخدام حروف العطف الألمانية.",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Ich lerne Deutsch, weil es wichtig ist.",
+        "arabic": "أتعلم الألمانية لأنها مهمة."
+      },
+      {
+        "german": "Wenn es regnet, bleibe ich zu Hause.",
+        "arabic": "عندما تمطر، أبقى في المنزل."
+      },
+      {
+        "german": "Ich esse und trinke.",
+        "arabic": "آكل وأشرب."
+      }
+    ]
+  },
+  {
+    "id": "grammar-014",
+    "title": "Imperative",
+    "titleArabic": "صيغة الأمر",
+    "description": "Learn how to form and use the imperative mood in German.",
+    "descriptionArabic": "تعلم كيفية تكوين واستخدام صيغة الأمر في الألمانية.",
+    "level": "A1",
+    "examples": [
+      {
+        "german": "Komm her!",
+        "arabic": "تعال هنا!"
+      },
+      {
+        "german": "Hören Sie zu!",
+        "arabic": "استمعوا!"
+      },
+      {
+        "german": "Geht nach Hause!",
+        "arabic": "اذهبوا إلى المنزل!"
+      }
+    ]
+  },
+  {
+    "id": "grammar-015",
+    "title": "Future Tense",
+    "titleArabic": "زمن المستقبل",
+    "description": "Learn how to express future actions in German.",
+    "descriptionArabic": "تعلم كيفية التعبير عن الأفعال المستقبلية في الألمانية.",
+    "level": "A2",
+    "examples": [
+      {
+        "german": "Ich werde morgen kommen.",
+        "arabic": "سآتي غدًا."
+      },
+      {
+        "german": "Es wird regnen.",
+        "arabic": "ستمطر."
+      },
+      {
+        "german": "Wir werden das schaffen.",
+        "arabic": "سننجح في ذلك."
+      }
+    ]
+  },
+  {
+    "id": "grammar-016",
+    "title": "Genitive Case",
+    "titleArabic": "حالة الإضافة",
+    "description": "Learn when and how to use the genitive case in German.",
+    "descriptionArabic": "تعلم متى وكيف تستخدم حالة الإضافة في الألمانية.",
+    "level": "B1",
+    "examples": [
+      {
+        "german": "Das Auto meines Vaters ist neu.",
+        "arabic": "سيارة والدي جديدة."
+      },
+      {
+        "german": "Die Farbe des Hauses ist schön.",
+        "arabic": "لون المنزل جميل."
+      },
+      {
+        "german": "Während des Winters ist es kalt.",
+        "arabic": "خلال الشتاء يكون الجو باردًا."
+      }
+    ]
+  },
+  {
+    "id": "grammar-017",
+    "title": "Relative Clauses",
+    "titleArabic": "الجمل الموصولة",
+    "description": "Learn how to form and use relative clauses in German.",
+    "descriptionArabic": "تعلم كيفية تكوين واستخدام الجمل الموصولة في الألمانية.",
+    "level": "B1",
+    "examples": [
+      {
+        "german": "Der Mann, der dort steht, ist mein Vater.",
+        "arabic": "الرجل الذي يقف هناك هو والدي."
+      },
+      {
+        "german": "Das Buch, das ich lese, ist interessant.",
+        "arabic": "الكتاب الذي أقرأه ممتع."
+      },
+      {
+        "german": "Die Frau, die ich kenne, kommt aus Berlin.",
+        "arabic": "المرأة التي أعرفها تأتي من برلين."
+      }
+    ]
+  },
+  {
+    "id": "grammar-018",
+    "title": "Passive Voice",
+    "titleArabic": "المبني للمجهول",
+    "description": "Learn how to form and use the passive voice in German.",
+    "descriptionArabic": "تعلم كيفية تكوين واستخدام المبني للمجهول في الألمانية.",
+    "level": "B1",
+    "examples": [
+      {
+        "german": "Das Haus wird gebaut.",
+        "arabic": "يتم بناء المنزل."
+      },
+      {
+        "german": "Der Brief wurde geschrieben.",
+        "arabic": "تمت كتابة الرسالة."
+      },
+      {
+        "german": "Das Problem kann gelöst werden.",
+        "arabic": "يمكن حل المشكلة."
+      }
+    ]
+  },
+  {
+    "id": "grammar-019",
+    "title": "Subjunctive II",
+    "titleArabic": "الشرطية الثانية",
+    "description": "Learn about Subjunctive II (Konjunktiv II) for hypothetical situations.",
+    "descriptionArabic": "تعلم عن الشرطية الثانية للمواقف الافتراضية.",
+    "level": "B1",
+    "examples": [
+      {
+        "german": "Wenn ich reich wäre, würde ich reisen.",
+        "arabic": "لو كنت غنيًا، لسافرت."
+      },
+      {
+        "german": "Ich hätte gerne einen Kaffee.",
+        "arabic": "أود أن أشرب قهوة."
+      },
+      {
+        "german": "Könnten Sie mir helfen?",
+        "arabic": "هل يمكنكم مساعدتي؟"
+      }
+    ]
+  },
+  {
+    "id": "grammar-020",
+    "title": "Conditional Sentences",
+    "titleArabic": "الجمل الشرطية",
+    "description": "Learn about different types of conditional sentences in German.",
+    "descriptionArabic": "تعلم عن أنواع مختلفة من الجمل الشرطية في الألمانية.",
+    "level": "B1",
+    "examples": [
+      {
+        "german": "Wenn es regnet, bleibe ich zu Hause.",
+        "arabic": "إذا أمطرت، سأبقى في المنزل."
+      },
+      {
+        "german": "Falls du kommst, rufe mich an.",
+        "arabic": "في حالة مجيئك، اتصل بي."
+      },
+      {
+        "german": "Wenn ich Zeit hätte, würde ich dir helfen.",
+        "arabic": "لو كان لدي وقت، لساعدتك."
+      }
+    ]
+  }
+]
